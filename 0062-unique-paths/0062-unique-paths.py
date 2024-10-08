@@ -17,6 +17,6 @@ class Solution:
                     up = dp[row-1][col]
                 if col-1 > -1: 
                     left = dp[row][col-1]
-                
                 dp[row][col] = up + left 
+                
         return dp[m-1][n-1]
