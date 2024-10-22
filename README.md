@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0062-unique-paths](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
@@ -22,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -50,5 +52,6 @@ This repository contains my solutions to LeetCode problems.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
