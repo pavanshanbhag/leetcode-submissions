@@ -1,26 +1,25 @@
 class Solution:
+    def kadane(self, nums):
+        local_max = global_max = nums[0]
+        for num in nums[1:]:
+            local_max = max(num, num+local_max)
+            if local_max > global_max:
+                global_max = local_max
+        return global_max
+
     def maxSubarraySumCircular(self, nums: List[int]) -> int:
+        # Case 1
+        kadane_max = self.kadane(nums)
+
+        wrap_sum = sum(nums)
+        # Case 2
+        for i in range(len(nums)):
+            nums[i] = -nums[i]
+        kadane_inverted_max = self.kadane(nums)
+
+        wrap_sum = wrap_sum + kadane_inverted_max
+
+        if wrap_sum == 0:
+            return kadane_max
+        return max(kadane_max, wrap_sum)
         
-        array_sum = 0
-        
-        local_min_sum, global_min_sum = 0, float('inf')
-        local_max_sum, global_max_sum = 0, float('-inf')
-        
-        for number in nums:
-            
-            local_min_sum = min( local_min_sum + number, number )
-            global_min_sum = min( global_min_sum, local_min_sum )
-            
-            local_max_sum = max( local_max_sum + number, number )
-            global_max_sum = max( global_max_sum, local_max_sum )
-            
-            array_sum += number
-        
-        # global_max_sum denotes the maximum subarray sum without crossing boundary
-        # arry_sum - global_min_sum denotes the maximum subarray sum with crossing boundary
-        
-        if global_max_sum > 0:
-            return max( array_sum - global_min_sum, global_max_sum )
-        else:
-            # corner case handle for all number are negative
-            return global_max_sum
