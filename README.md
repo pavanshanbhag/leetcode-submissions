@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | [0053-maximum-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -20,6 +21,7 @@ This repository contains my solutions to LeetCode problems.
 | [0064-minimum-path-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0494-target-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1013-fibonacci-number) |
@@ -41,6 +43,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
