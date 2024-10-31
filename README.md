@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems.
 | [0152-maximum-product-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -90,5 +91,6 @@ This repository contains my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
