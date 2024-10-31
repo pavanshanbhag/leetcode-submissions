@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | [0053-maximum-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
@@ -22,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 | [0064-minimum-path-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
@@ -80,4 +82,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
