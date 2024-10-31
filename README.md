@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems.
 | [0747-min-cost-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -86,4 +87,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
+## String
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
