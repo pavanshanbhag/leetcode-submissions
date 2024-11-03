@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems.
 | [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
@@ -93,4 +94,8 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1250-longest-common-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
