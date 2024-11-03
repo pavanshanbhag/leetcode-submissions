@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | [0053-maximum-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
+| [0303-range-sum-query-immutable](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0518-coin-change-ii) |
@@ -111,4 +112,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
