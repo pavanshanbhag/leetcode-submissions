@@ -2,9 +2,11 @@ class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         window_start, char_freq, max_len = 0, {}, 0
         # Edge case - handle when string is empty
+        if not s :
+            return max_len
         # Edge case - handle when its just one character
-        if len(s) < 2:
-            return len(s)
+        # if len(s) < 2:
+        #     return len(s)
 
         for window_end in range(len(s)):
             char = s[window_end]
