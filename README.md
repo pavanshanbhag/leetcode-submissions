@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems.
 | [0643-maximum-average-subarray-i](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1034-subarrays-with-k-different-integers](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,8 +101,14 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0643-maximum-average-subarray-i) |
+| [1034-subarrays-with-k-different-integers](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1034-subarrays-with-k-different-integers](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/1034-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
