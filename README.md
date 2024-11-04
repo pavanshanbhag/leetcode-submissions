@@ -61,6 +61,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0113-path-sum-ii) |
+| [0207-course-schedule](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -90,6 +91,7 @@ This repository contains my solutions to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
 ## String
 |  |
@@ -120,4 +122,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
