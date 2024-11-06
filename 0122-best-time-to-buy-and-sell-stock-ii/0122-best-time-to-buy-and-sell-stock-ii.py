@@ -31,7 +31,7 @@ class Solution:
 
         return dp[idx][stock] 
 
-    def maxProfit(self, prices: List[int]) -> int:
+    def maxProfit_tab(self, prices: List[int]) -> int:
         n = len(prices)
         dp = [[-1 for i in range(2)] for _ in range(n+1)]
         dp[n][0] = dp[n][1] = 0
@@ -50,4 +50,23 @@ class Solution:
 
         return dp[0][0]
 
+    def maxProfit(self, prices: List[int]) -> int:
+        n = len(prices)
+        cur = [-1 for i in range(2)]
+        ahead = [-1 for i in range(2)]
+        ahead[0] = ahead[1] = 0
+        for idx in range(n-1, -1, -1):
+            for stock in range(2):
+                profit = float('-inf')
+                if stock==1:
+                    sell = prices[idx] + ahead[0]
+                    dont_sell = 0 +  ahead[1] 
+                    profit = max(sell, dont_sell)
+                else:
+                    buy = -prices[idx] + ahead[1]
+                    dont_buy = 0 + ahead[0]
+                    profit = max(buy, dont_buy)
+                cur[stock] = profit
+            ahead = cur
+        return ahead[0]
         
