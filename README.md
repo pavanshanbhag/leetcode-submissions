@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems.
 | [0053-maximum-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
@@ -27,6 +28,7 @@ This repository contains my solutions to LeetCode problems.
 | [0064-minimum-path-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0494-target-sum) |
@@ -132,4 +134,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0207-course-schedule) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pavanshanbhag/leetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
